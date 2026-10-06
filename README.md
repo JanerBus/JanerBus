@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! Soy Janer Bustillo 👋
 
-<!--
-**JanerBus/JanerBus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 10.° semestre de **Ingeniería de Software** en la Universidad de Santander (UDES), Bucaramanga, Colombia.
 
-Here are some ideas to get you started:
+Apasionado por el desarrollo de software, la optimización de procesos y la gestión estructurada de datos. Actualmente enfocado en culminar mi proyecto de grado (solución Full-Stack de logística e IA offline para economía circular) y habilitado para iniciar prácticas profesionales bajo **Contrato de Aprendizaje**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+- **Bases de Datos & Gestión de Información:** SQL, Modelado Relacional (ERD), Microsoft Excel (intermedio).
+- **Lenguajes & Programación:** Fundamentos de POO, lógica algorítmica, Python, Dart / Flutter.
+- **Herramientas & Entornos:** Git, GitHub, VS Code, REST APIs.
+
+---
+
+### 🚀 Proyecto Destacado
+
+- **Ecosistema Digital para Economía Circular & Logística de Residuos** *(Proyecto de Grado - UDES)*
+  - Plataforma full-stack para conectar generadores de residuos con gestores autorizados en Santander.
+  - Trazabilidad y optimización de rutas de recolección.
+  - Clasificación visual de residuos mediante **Inteligencia Artificial offline** en dispositivos móviles.
+
+---
+
+### 📬 Conectemos
+
+- **LinkedIn:** [linkedin.com/in/janer-bustillo-5617aa266](https://www.linkedin.com/in/janer-bustillo-5617aa266)
+- **Ubicación:** Bucaramanga, Santander, Colombia
+- **Email:** [Tu Correo de Contacto]
