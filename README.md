@@ -27,4 +27,4 @@ Apasionado por el desarrollo de software, la optimización de procesos y la gest
 
 - **LinkedIn:** [linkedin.com/in/janer-bustillo-5617aa266](https://www.linkedin.com/in/janer-bustillo-5617aa266)
 - **Ubicación:** Bucaramanga, Santander, Colombia
-- **Email:** [Tu Correo de Contacto]
+- **Email:** janer2bustillo@gmail.com
