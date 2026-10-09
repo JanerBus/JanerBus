@@ -1,4 +1,4 @@
-# ¡Hola! Soy Janer Bustillo 👋
+# ¡Hola! Soy Janer Bustillo
 
 Estudiante de 10.° semestre de **Ingeniería de Software** en la Universidad de Santander (UDES), Bucaramanga, Colombia.
 
