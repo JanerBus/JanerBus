@@ -2,7 +2,7 @@
 
 Estudiante de 10.° semestre de **Ingeniería de Software** en la Universidad de Santander (UDES), Bucaramanga, Colombia.
 
-Apasionado por el desarrollo de software, la optimización de procesos y la gestión estructurada de datos. Actualmente enfocado en culminar mi proyecto de grado (solución Full-Stack de logística e IA offline para economía circular) y habilitado para iniciar prácticas profesionales bajo **Contrato de Aprendizaje**.
+Apasionado por el desarrollo de software, la optimización de procesos y la gestión estructurada de datos. Actualmente enfocado en culminar mi proyecto de grado (solución Full-Stack de logística e IA offline para economía circular) y habilitado para iniciar mi carrera profesional.
 
 ---
 
